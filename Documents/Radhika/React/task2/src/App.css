@@ -1,0 +1,14 @@
+.nav{
+  background-color:beige;
+  height:100vh;
+  width: 48%;
+  float: left;
+}
+.Main{
+  background-color: burlywood;
+  height:100vh;
+  width: 48%;
+  float: right;
+  
+
+}

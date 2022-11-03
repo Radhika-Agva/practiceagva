@@ -1,0 +1,28 @@
+.App {
+  text-align: left;
+
+}
+.n1{
+  height: 100vh;
+  width: 20%;
+  padding: 2%;
+  display: block;
+  border:black;
+  border-style: dotted;
+  float: left;
+  background-color: burlywood;
+}
+.main1{
+  height: 100vh;
+  width: 70%;
+  display: block;
+  padding: 2%;
+  border:black;
+  border-style: dotted;
+  float:right;
+  background-color: blanchedalmond;
+}
+.main1 h1{
+  text-align: center;
+  margin-left: 10%;
+}
